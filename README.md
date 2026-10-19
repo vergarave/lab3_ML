@@ -7,7 +7,7 @@
 - `Lab3_Clasificacion.ipynb`: notebook con código, gráficas, resultados y análisis.
 - `Lab3_Clasificacion.html`: versión HTML con las salidas de ejecución.
 - `Lab3_datos_Prueba.csv`: archivo original de prueba con la columna `acepta_cupon` añadida.
-- `registro_uso_IA.md`: registro previo y continuación con Codex.
+- `registro_uso_IA.md`: resumen del uso de IA (Claude Code y ChatGPT 6 Astra); la versión completa está en la sección 11 del notebook.
 - `guion_video.md`: guion para grabar el video de máximo tres minutos; no sustituye el video.
 
 ## Reproducir

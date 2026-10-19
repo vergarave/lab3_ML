@@ -12,7 +12,7 @@ Revisamos nulos, duplicados, dominios y consistencia. Eliminamos vehículo por c
 
 ## 0:50–1:25 — Modelos (mostrar tabla de sección 7)
 
-Comparamos regresión logística, árbol y Random Forest, siguiendo las prácticas del curso. Optimizamos F1-macro para dar el mismo peso a aceptar y rechazar. La selección por validación cruzada fue Random Forest para Cafetería y Random Forest + SMOTEN para Restaurante. En test obtuvimos F1-macro de 0.775 y 0.695, respectivamente. No confundimos el ajuste de entrenamiento con la capacidad de generalizar.
+Comparamos regresión logística, árbol y Random Forest, siguiendo las prácticas del curso. Optimizamos F1-macro para dar el mismo peso a aceptar y rechazar. La selección por validación cruzada fue Random Forest para Cafetería y Random Forest + SMOTEN para Restaurante. En test obtuvimos F1-macro de 0.773 y 0.697, respectivamente. No confundimos el ajuste de entrenamiento con la capacidad de generalizar.
 
 ## 1:25–1:55 — Balanceo (mostrar tabla de sección 6)
 
@@ -20,7 +20,7 @@ Probamos los tres algoritmos con SMOTEN, una adaptación de SMOTE para variables
 
 ## 1:55–2:20 — Interpretación (mostrar sección 8)
 
-En Cafetería destacan frecuencia_cafeteria, destino; en Restaurante, ocupacion, hora. Lo medimos por la pérdida de F1 al permutar cada variable en el bosque. Las reglas del árbol permiten describir decisiones concretas, pero estas asociaciones no prueban causalidad ni explican exactamente todo el bosque.
+En Cafetería destacan frecuencia_cafeteria, destino; en Restaurante, destino, hora. Lo medimos por la pérdida de F1 al permutar cada variable en el bosque. Las reglas del árbol permiten describir decisiones concretas, pero estas asociaciones no prueban causalidad ni explican exactamente todo el bosque.
 
 ## 2:20–2:50 — Recomendación y límites
 
