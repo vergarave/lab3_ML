@@ -30,8 +30,8 @@
 
 **Claude Code**
 1. *"Tengo que hacer el siguiente laboratorio, las instrucciones completas están en el .md, la rúbrica está en el .pdf y tenemos la data en la carpeta Data. Quiero que revises todo y empecemos a trabajar. Fíjate que el .md especifica que si voy a usar inteligencia artificial no solo la debo declarar sino también debo yo tomar las decisiones importantes, así que tú vas a hacer todo lo repetitivo y en el momento que haya que tomar una decisión es cuando vas a pedir mi input. Guíate del repo de la clase: https://github.com/ISIS-2611-AprendizajeMaquina/MaterialDeClase-ISIS-2611.git"*
-2. *"Hicieron unos cambios, revisa y me dices qué opinas (antes de cambiar cosas)."*
-3. *(Resumen)* Corregir la documentación de la decisión de SMOTEN, aclarar que todas las decisiones las tomó el equipo, restaurar la exploración detallada, alinear versiones de librerías y regenerar el HTML.
+
+2. *(Resumen)* Corregir la documentación de la decisión de SMOTEN, restaurar la exploración detallada, alinear versiones de librerías y regenerar el HTML.
 
 **ChatGPT 6 Astra (resumen)**
 1. *"Leer muy bien Laboratorio 3_Clasificación.md y la rúbrica del PDF; continuar Lab3_Clasificacion.ipynb respetando los avances del compañero; basarse obligatoriamente en las prácticas del repositorio ISIS-2611; adaptar el código para cumplir la rúbrica, redactar explicaciones buenas pero breves y correr el notebook con los datos de /Data."*
